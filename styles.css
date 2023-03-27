@@ -2,7 +2,6 @@
     font-family: "Roboto", sans-serif;
     color: #161616;
 }
-
 body {
     max-width: 1200px;
     margin: 0 auto;
@@ -16,4 +15,18 @@ div {
     padding-right: 50px;
     padding-top:20px;
     padding-bottom:20px;
+}
+img {
+    width: 600px;
+    height: auto;
+}
+button {
+    margin-left: auto;
+    display: block;
+    background-color:rgb(204, 228, 216);
+    padding: 8px;
+    border: 0;
+}
+a {
+    text-decoration: none;
 }
